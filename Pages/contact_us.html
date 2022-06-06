@@ -11,16 +11,63 @@
 <body>
     <h2><strong>Contact us</strong></h2>
     <p>
-        <p>321 Starman rd</p>
-        <p>Somewhere, ON</p>
-        <p>f2P 9R7</p>
-<br><br>
-        <p>Telephone: (245)555-5544</p>
-        <p>Fax: (245)555-5533</p>
-        <p>Email: comfortfoods@dietarylive.com</p>
+    <p>321 Starman rd</p>
+    <p>Somewhere, ON</p>
+    <p>f2P 9R7</p>
+    <br><br>
+    <p>Telephone: (245)555-5544</p>
+    <p>Fax: (245)555-5533</p>
+    <p>Email: comfortfoods@dietarylive.com</p>
     </p>
     <br><br>
     <h3><strong>Contact form</strong></h3>
+
+    <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
+
+        <div class="fcf-form-group">
+            <label for="Name" class="fcf-label">Your name</label>
+            <div class="fcf-input-group">
+                <input type="text" id="Name" name="Name" class="fcf-form-control" required>
+            </div>
+        </div>
+
+        <div class="fcf-form-group">
+            <label for="Email" class="fcf-label">Your email address</label>
+            <div class="fcf-input-group">
+                <input type="email" id="Email" name="Email" class="fcf-form-control" required>
+            </div>
+        </div>
+
+        <div class="fcf-form-group">
+            <label for="Message" class="fcf-label">Your message</label>
+            <div class="fcf-input-group">
+                <textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000"
+                    required></textarea>
+            </div>
+        </div>
+
+        <div class="fcf-form-group">
+            <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send
+                Message</button>
+        </div>
+
+
+    </form>
+
+
+
+
+    <footer>
+        <li><a href="#">Subscribe</a></li>
+        <li><a href="#">Food and safety guidelines</a></li>
+        <li><a href="#">Contact Us</a></li>
+        <li><a href="#">Location</a></li>
+        <li><a href="#">Site Map</a></li>
+        <li>
+            <h5>© 2022 Comfort Foods: Nursing home meals</h5>
+        </li>
+    </footer>
+
 </body>
 
 </html>
