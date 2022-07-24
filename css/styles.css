@@ -68,3 +68,15 @@ h1 {
     position: relative;
     justify-content: baseline;
 }
+
+/*About us page*/
+
+.about_main {
+
+    padding: 20px;
+}
+
+.aboutUs {
+
+    padding: 20px;
+}
