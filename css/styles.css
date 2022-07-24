@@ -4,7 +4,15 @@ body {
     margin: 0;
 
 }
+.navbar-brand{
 
+font-size: open-sans, sans-serif;
+color: aliceblue;
+}
+.nav-link{
+
+    color: aliceblue;
+}
 
 /*.navbar {
 
