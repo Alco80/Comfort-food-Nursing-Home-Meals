@@ -4,14 +4,21 @@ body {
     margin: 0;
 
 }
-.navbar-brand{
 
-font-size: open-sans, sans-serif;
-color: aliceblue;
+.navbar-brand {
+
+    font-size: open-sans, sans-serif;
+    color: aliceblue;
+
 }
-.nav-link{
+
+.nav-link {
 
     color: aliceblue;
+}
+
+a:hover.nav-link {
+    background-color: rgb(173, 201, 220);
 }
 
 /*.navbar {
@@ -36,3 +43,9 @@ li {
     font-size: 1rem;
     margin: 0;
 }*/
+
+.hero {
+    margin: 20px;
+    justify-content: left;
+    font-size:48px;
+}
