@@ -17,9 +17,11 @@ body {
 /*-------------------*/
 
 .hero-text {
-   font-size: 3rem;
-   margin: auto;
-    
+    font-size: 3rem;
+    margin: auto;
+    color: #fff;
+    opacity: .7;
+
 }
 
 .info-text {
@@ -46,6 +48,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
+    background-blend-mode: multiply;
+    background-color: #404040;
     height: 100%;
     padding: 8em 0 4em;
 }
