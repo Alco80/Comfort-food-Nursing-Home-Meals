@@ -81,10 +81,14 @@ body {
     padding: 0;
     margin: auto;
 }
+.logo-container{
+margin-right: auto;
+padding:0;
+
+}
 
 .logo {
-    border: 2px solid red;
-    display: block;
+   
 }
 
 .nav__list-main {
