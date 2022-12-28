@@ -90,6 +90,7 @@ body {
     display: flex;
     justify-content: flex-end;
     gap: 3em;
+    font-size: .85rem;
     margin-right: 1.7em;
     font-weight: 300;
 }
