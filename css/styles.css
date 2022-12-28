@@ -108,3 +108,15 @@ body {
 
     color: #58c322;
 }
+
+.nav-sub__items {
+
+    display: none;
+}
+
+.nav-sub__items>.nav__links:hover .nav__links {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 100%;
+}
