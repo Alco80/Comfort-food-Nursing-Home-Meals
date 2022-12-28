@@ -18,7 +18,6 @@ body {
 
 .hero-text {
     font-size: 3.5rem;
-    margin: auto;
     color: #fff;
     opacity: .9;
     margin-bottom: 0;
@@ -26,8 +25,9 @@ body {
 }
 
 .hero-subtext {
-
+    margin-top: 2em;
     color: #fff;
+    font-weight: 300;
 }
 
 .info-text {
