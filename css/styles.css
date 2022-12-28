@@ -94,7 +94,8 @@ body {
     list-style: none;
     display: flex;
     gap: 4.5em;
-    font-size: .85rem;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
     margin-right: 1.9em;
     font-weight: 300;
 }
