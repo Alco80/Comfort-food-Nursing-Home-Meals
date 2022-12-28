@@ -61,3 +61,15 @@ body {
     height: 100%;
     padding: 8em 0 8em;
 }
+
+
+/*-------------------*/
+/* navigation        */
+/*-------------------*/
+
+
+.header-main{
+
+    background-color: #3085b3;
+    height: 100%;
+}
