@@ -84,20 +84,22 @@ body {
 }
 
 .nav__list-main {
+    border: 2px solid red;
     list-style: none;
     display: flex;
     justify-content: space-between;
 }
 
 .nav-items {
-   border: 2px solid red;
+  
     padding: 2em 3em;
     margin: 0 2em;
     position: relative;
 }
 
 .nav__links {
-
+  
+    
     text-decoration: none;
     color: #fff;
     transition: all 0.3s;
