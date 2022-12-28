@@ -74,7 +74,7 @@ body {
 .header-main {
     background-color: #3085b3;
     height: 100%;
-    padding: 0.6em;
+   
 }
 
 .header-content {
@@ -88,7 +88,7 @@ padding:0;
 }
 
 .logo {
-   
+  font-size: 2rem; 
 }
 
 .nav__list-main {
