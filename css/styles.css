@@ -25,6 +25,11 @@ body {
 
 }
 
+.hero-subtext {
+
+    color: #fff;
+}
+
 .info-text {
 
     font-weight: 1.5rem;
