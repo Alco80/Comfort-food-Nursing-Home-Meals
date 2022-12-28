@@ -110,7 +110,7 @@ body {
 }
 
 .nav-sub__items {
-
+list-style: none;
     display: none;
 }
 
