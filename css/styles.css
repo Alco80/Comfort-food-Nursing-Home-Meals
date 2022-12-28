@@ -69,7 +69,6 @@ body {
 
 
 .header-main {
-    border: 2px solid red;
     background-color: #3085b3;
     height: 100%;
     padding: 0.6em;
@@ -113,7 +112,8 @@ body {
 .nav__links:hover,
 .nav__links:focus {
 
-    color: #58c322;
+    color: #5df833;
+
 }
 
 .nav-sub__items {
