@@ -13,9 +13,19 @@ body {
 
 
 /*-------------------*/
-/*typography          */
+/* typography        */
 /*-------------------*/
 
 .hero-text {
     font-size: 3rem;
+}
+
+.info-text {
+
+    font-weight: 1.5rem;
+}
+
+.info-text__small{
+
+    font-size: 1rem;
 }
