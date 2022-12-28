@@ -88,7 +88,10 @@ body {
     display: flex;
     justify-content: space-between;
 }
+.nav{
 
+    display:flex;
+}
 .nav-items {
 
     padding: 2em 3em;
@@ -109,11 +112,11 @@ body {
     color: #58c322;
 }
 
-.nav-sub__items>.nav__items {
+.nav-sub__items {
     list-style: none;
 }
 
-.nav-sub__items>.nav__links:hover .nav__links {
+.nav-sub-list__items {
     display: block;
     position: absolute;
     left: 0;
