@@ -109,8 +109,8 @@ body {
     color: #58c322;
 }
 
-.nav-sub__items > .nav__links {
-list-style: none;
+.nav-sub__items>.nav__items {
+    list-style: none;
 }
 
 .nav-sub__items>.nav__links:hover .nav__links {
