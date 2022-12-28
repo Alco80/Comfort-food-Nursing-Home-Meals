@@ -69,9 +69,10 @@ body {
 
 
 .header-main {
-
+    border: 2px solid red;
     background-color: #3085b3;
     height: 100%;
+    padding: 0.6em;
 }
 
 .header-content {
@@ -84,11 +85,12 @@ body {
 }
 
 .nav__list-main {
-    border: 2px solid red;
+
     list-style: none;
     display: flex;
     justify-content: flex-end;
     gap: 3em;
+    margin-right: 1.7em;
     font-weight: 300;
 }
 
