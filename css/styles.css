@@ -93,10 +93,18 @@ body {
 
     padding: 2em 3em;
     margin: 0 2em;
+    position: relative;
 }
 
-.nav__links{
+.nav__links {
 
     text-decoration: none;
-    color:#fff ;
+    color: #fff;
+    transition: all 0.3s;
+}
+
+.nav__links:hover,
+.nav__links:focus {
+
+    color: #58c322;
 }
