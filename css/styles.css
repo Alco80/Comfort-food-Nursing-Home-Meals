@@ -88,20 +88,20 @@ body {
     list-style: none;
     display: flex;
     justify-content: flex-end;
-    gap:3em;
+    gap: 3em;
     font-weight: 300;
 }
 
 .nav-items {
-  
+
     padding: 2em 3em;
     margin: 0 2em;
     position: relative;
 }
 
 .nav__links {
-  
-    
+
+
     text-decoration: none;
     color: #fff;
     transition: all 0.3s;
