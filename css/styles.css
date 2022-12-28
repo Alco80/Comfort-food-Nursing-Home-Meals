@@ -84,9 +84,19 @@ body {
 }
 
 .nav__list-main {
-
+    list-style: none;
     display: flex;
     justify-content: space-between;
+}
 
+.nav-items {
 
+    padding: 2em 3em;
+    margin: 0 2em;
+}
+
+.nav__links{
+
+    text-decoration: none;
+    color:#fff ;
 }
