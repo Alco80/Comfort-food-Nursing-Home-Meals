@@ -18,6 +18,8 @@ body {
 
 .hero-text {
     font-size: 3rem;
+    padding: .5em 0;
+    
 }
 
 .info-text {
@@ -33,4 +35,16 @@ body {
 .info-subtext {
     font-size: 1rem;
     line-height: 1.7;
+}
+
+
+/* image */
+
+.hero-section {
+
+    background-image: url(/img/istockphoto-599995238-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: 100%;
 }
