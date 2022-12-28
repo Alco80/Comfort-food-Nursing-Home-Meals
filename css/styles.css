@@ -74,28 +74,17 @@ body {
 .header-main {
     background-color: #3085b3;
     display: flex;
-    justify-content: space-between;
-   
-    height: 100%;
-    padding: 0;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 10%;
 
 }
 
-.header-content {
-    padding: 0;
-    
-}
 
-.logo-container {
-   
-    padding: 0;
-
-
-}
 
 .logo {
-    font-size: 1.5rem;
-    display: flex;
+    margin-right: auto;
+    font-size: 2rem;
     color: #fff;
 
 }
@@ -104,8 +93,6 @@ body {
 
     list-style: none;
     display: flex;
-    justify-content: flex-end;
-
     gap: 4.5em;
     font-size: .85rem;
     margin-right: 1.9em;
@@ -113,7 +100,7 @@ body {
 }
 
 .nav-items {
-
+    display: inline-block;
     padding: 2em 3em;
     margin: 0 2em;
     position: relative;
