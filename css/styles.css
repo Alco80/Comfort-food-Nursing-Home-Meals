@@ -89,7 +89,7 @@ body {
     list-style: none;
     display: flex;
     justify-content: flex-end;
-    gap: 6em;
+    gap: 4.5em;
     font-size: .85rem;
     margin-right: 1.9em;
     font-weight: 300;
