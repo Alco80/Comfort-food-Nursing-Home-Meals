@@ -84,6 +84,7 @@ body {
 
 .logo {
     background-color: aqua;
+    display: flex;
 }
 
 .nav__list-main {
