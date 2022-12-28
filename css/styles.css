@@ -47,7 +47,7 @@ body {
     line-height: 1.7;
 }
 
-.bold{
+.bold {
     font-weight: 900;
 }
 
@@ -83,8 +83,8 @@ body {
 }
 
 .logo {
-   border: 2px solid red;
-
+    border: 2px solid red;
+    display: block;
 }
 
 .nav__list-main {
