@@ -101,6 +101,7 @@ color: #fff;
     list-style: none;
     display: flex;
     justify-content: flex-end;
+    align-items: center;
     gap: 4.5em;
     font-size: .85rem;
     margin-right: 1.9em;
