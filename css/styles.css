@@ -25,7 +25,12 @@ body {
     font-weight: 1.5rem;
 }
 
-.info-text__small{
+.info-text__small {
 
     font-size: 1rem;
+}
+
+.info-subtext {
+    font-size: 1rem;
+    line-height: 1.7;
 }
