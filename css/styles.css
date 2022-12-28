@@ -73,3 +73,20 @@ body {
     background-color: #3085b3;
     height: 100%;
 }
+
+.header-content {
+    padding: 0;
+    margin: auto;
+}
+
+.logo {
+    background-color: aqua;
+}
+
+.nav__list-main {
+
+    display: flex;
+    justify-content: space-between;
+
+
+}
