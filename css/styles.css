@@ -74,6 +74,7 @@ body {
 .header-main {
     background-color: #3085b3;
     height: 100%;
+    padding:0;
    
 }
 
@@ -85,10 +86,14 @@ body {
 margin-right: auto;
 padding:0;
 
+
 }
 
 .logo {
-  font-size: 2rem; 
+  font-size: 1.5rem; 
+  display: flex;
+color: #fff;
+  align-items: center;
 }
 
 .nav__list-main {
