@@ -73,27 +73,31 @@ body {
 
 .header-main {
     background-color: #3085b3;
-    height: 100%;
-    padding:0;
+    display: flex;
+    justify-content: space-between;
    
+    height: 100%;
+    padding: 0;
+
 }
 
 .header-content {
     padding: 0;
-    margin: auto;
+    
 }
-.logo-container{
-margin-right: auto;
-padding:0;
+
+.logo-container {
+   
+    padding: 0;
 
 
 }
 
 .logo {
-  font-size: 1.5rem; 
-  display: flex;
-color: #fff;
-  align-items: center;
+    font-size: 1.5rem;
+    display: flex;
+    color: #fff;
+
 }
 
 .nav__list-main {
@@ -101,7 +105,7 @@ color: #fff;
     list-style: none;
     display: flex;
     justify-content: flex-end;
-    align-items: center;
+
     gap: 4.5em;
     font-size: .85rem;
     margin-right: 1.9em;
