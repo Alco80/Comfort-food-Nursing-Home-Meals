@@ -124,11 +124,6 @@ body {
 
 .nav-sub__items {
     list-style: none;
+    background-color: #3085b3;
 }
 
-.nav-sub-list__items {
-    display: block;
-    position: absolute;
-    left: 0;
-    top: 100%;
-}
