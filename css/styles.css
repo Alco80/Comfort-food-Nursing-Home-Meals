@@ -1,173 +1,19 @@
-* {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
 }
 
+:root {
+    font-size: 100%;
+}
+
 body {
-    font-family: 'Roboto', sans-serif;
-    font-size: 1rem;
+    margin: 0;
     padding: 0;
-    margin: 0;
-    background-color: rgb(240, 240, 240);
-    color: rgb(11, 11, 11);
-
+    background-color: #f0f0f0;
 }
 
-
-/*-------------------*/
-/* typography        */
-/*-------------------*/
-
-.hero-text {
-    font-size: 3.5rem;
-    color: #fff;
-    opacity: .9;
-    margin: 0 1.5em;
-
-}
-
-.hero-subtext {
-    margin-top: 2em;
-    color: #fff;
-    font-weight: 300;
-    opacity: .9;
-    margin: 4.5em;
-}
-
-.info-text {
-
-    font-weight: 1.5rem;
-}
-
-.info-text__small {
-
-    font-size: 1rem;
-}
-
-.info-subtext {
-    font-size: 1rem;
-    line-height: 1.7;
-}
-
-.bold {
-    font-weight: 900;
-}
-
-/* image */
-
-.hero-section {
-
-    background-image: url(https://media.istockphoto.com/id/599995238/photo/healthiness-and-happiness-go-hand-in-hand.webp?s=612x612&w=is&k=20&c=MeWgrryy15-vIn1U998qeklyckwrOevaHohxkVjP7EM=);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top;
-    background-blend-mode: multiply;
-    background-color: #5f5f5f;
-    height: 80vh;
-    padding: 8em 0 8em;
-}
-
-
-/*-------------------*/
-/* navigation        */
-/*-------------------*/
-
-
-.header-main {
-    background-color: #3085b3;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    padding: 30px 10%;
-
-}
-
-
-
-.logo {
-    margin-right: auto;
-    font-size: 2rem;
-    color: #fff;
-
-}
-
-
-.navbar {
-    overflow: hidden;
-    background-color: rgb(49, 97, 218);
-}
-
-.navbar .nav-links {
-    float: left;
-    font-size: 16px;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-.dropdown {
-    float: left;
-    overflow: hidden;
-}
-
-.dropdown .dropbtn {
-    font-size: 16px;
-    border: none;
-    outline: none;
-    color: white;
-    padding: 14px 16px;
-    background-color: inherit;
-    font-family: inherit;
-    margin: 0;
-}
-
-.navbar .nav-links:hover,
-.dropdown:hover .dropbtn {
-    background-color: rgb(50, 208, 95);
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    z-index: 1;
-}
-
-.dropdown-content .nav-links {
-    float: none;
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-}
-
-.dropdown-content .nav-links:hover {
-    background-color: #ddd;
-}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-
-/*-------------------*/
-/* hero              */
-/*-------------------*/
-
-
-.main {
-    display: block;
-}
-
-.btn {
-    padding: 1.3em;
-    margin-left: 5.5em;
-    font-size: 1rem;
-    border: 0;
-    text-transform: uppercase;
-    background-color: #3085b3;
-    color: #fff;
+.custom-clr{
+    background-color: #52629d;
 }
