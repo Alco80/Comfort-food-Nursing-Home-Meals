@@ -6,6 +6,7 @@
 
 :root {
     font-size: 100%;
+    --primary:#09b92f;
 }
 
 body {
@@ -17,6 +18,8 @@ body {
 .custom-clr {
     background-color: #212122;
 }
+
+
 
 
 /* NAVBAR */
