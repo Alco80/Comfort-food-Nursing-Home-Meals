@@ -38,6 +38,7 @@ body {
     background-color: #3a3a3c;
     background-blend-mode: multiply;
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: center;
     width: 100vw;
 }
