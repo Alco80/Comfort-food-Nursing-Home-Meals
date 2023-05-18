@@ -33,11 +33,12 @@ body {
 /* HERO MAIN */
 
 .hero {
-    background-image: url(../img/lady-fish.jpg);
+    background-image: url(../img/seniors-eating1.jpg);
     background-color: #3a3a3c;
     background-blend-mode: multiply;
     background-repeat: no-repeat;
     background-position: center;
+    width: 100vw;
 }
 
 .hero-main-title {
@@ -45,7 +46,10 @@ body {
     color: #f0f0f0;
     padding-left: .6em;
     padding-top: 1em;
+}
 
+.hero-info{
+    color: #f0f0f0;
 }
 
 
