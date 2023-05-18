@@ -14,7 +14,7 @@ body {
     background-color: #f0f0f0;
 }
 
-.custom-clr{
+.custom-clr {
     background-color: #212122;
 }
 
@@ -22,8 +22,7 @@ body {
 /* NAVBAR */
 
 
-.logo-img{
-    width:40%;
+.logo-img {
+    width: 80%;
     padding-left: 2em;
 }
-
