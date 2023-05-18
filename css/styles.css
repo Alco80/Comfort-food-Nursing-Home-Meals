@@ -56,6 +56,13 @@ body {
     padding-top: .8em;
 }
 
+.hero-btn {
+    padding: 1.4em .9em;
+}
+
+.btn-main {
+    background-color: var(--primary);
+}
 
 @media screen and (min-width:480px) {
     .logo-img {
