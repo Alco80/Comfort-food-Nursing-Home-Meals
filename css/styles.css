@@ -7,6 +7,7 @@
 :root {
     font-size: 100%;
     --primary: #09b92f;
+    --hover: #ff0191;
 }
 
 body {
@@ -62,7 +63,16 @@ body {
 
 .btn-main {
     background-color: var(--primary);
+    color: #f0f0f0;
 }
+
+.btn-main:hover {
+    background-color: var(--hover);
+    color: #f0f0f0;
+    text-decoration: underline;
+}
+
+/* MEDIA QUERY */
 
 @media screen and (min-width:480px) {
     .logo-img {
