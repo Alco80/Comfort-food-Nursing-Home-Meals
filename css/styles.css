@@ -154,4 +154,9 @@ body {
     .hero-btn {
         padding: 2em 1.5em;
     }
+
+    .btn-main {
+        font-size: 1.3rem;
+        padding: .5em 1.5em;
+    }
 }
