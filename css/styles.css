@@ -78,6 +78,7 @@ body {
 .navbar-toggler{
     color: #09b92f;
 }
+
 /* MEDIA QUERY */
 
 @media screen and (min-width:480px) {
