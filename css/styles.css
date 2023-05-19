@@ -75,7 +75,9 @@ body {
     color: #f0f0f0;
     text-decoration: underline;
 }
-
+.navbar-toggler{
+    color: #09b92f;
+}
 /* MEDIA QUERY */
 
 @media screen and (min-width:480px) {
