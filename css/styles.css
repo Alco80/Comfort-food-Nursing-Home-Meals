@@ -85,22 +85,23 @@ body {
 }
 
 /* 404 PAGE */
-.not-found{
+.not-found {
     text-align: center;
     padding-top: 3em;
 }
 
-.title-not-found{
+.title-not-found {
     font-size: 6rem;
 }
 
-.info-not-found{
+.info-not-found {
     font-size: 2rem;
     font-weight: 300;
+    padding-bottom: 1.5em;
 }
 
-.not-found-link{
-    font-size: 2rem;
+.not-found-link {
+    font-size: 1.5rem;
 }
 
 /* MEDIA QUERY */
