@@ -35,7 +35,7 @@ body {
 
 .hero {
     background-image: url(../img/beautiful-day-have-meal-together.jpg);
-    background-color: #3a3a3c;
+    background-color: #555556;
     background-blend-mode: multiply;
     background-repeat: no-repeat;
     background-size: cover;
@@ -137,9 +137,8 @@ body {
     }
 
     .hero {
-        background-position: cover;
+        background-position: center;
         background-size: cover;
-
     }
 
     .hero-main-title {
@@ -152,7 +151,7 @@ body {
     }
 
     .hero-btn {
-        padding: 2em 1.5em;
+        padding: 3em 1.8em;
     }
 
     .btn-main {
