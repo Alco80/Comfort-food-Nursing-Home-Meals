@@ -86,8 +86,12 @@ body {
 
 /* MAIN CONTENT */
 
-.col-sub{
+.col-sub {
     padding: 2em;
+}
+
+p {
+    line-height: 1.5;
 }
 
 /* 404 PAGE */
@@ -136,7 +140,7 @@ body {
         padding: 2em 1.5em;
     }
 
-    .columns{
+    .columns {
         display: flex;
         flex-direction: column;
     }
@@ -166,7 +170,7 @@ body {
     .hero-btn {
         padding: 2em 1.5em;
     }
-    
+
 }
 
 
@@ -198,8 +202,13 @@ body {
         font-size: 1.3rem;
         padding: .5em 1.5em;
     }
-    .columns{
+
+    .columns {
         display: flex;
         flex-direction: row;
+    }
+
+    .col-sub {
+        width: 80%;
     }
 }
