@@ -117,9 +117,8 @@ p {
 
 /* ICONS */
 
-.fa-duotone,
-.fa-pot-food {
-    font-size: 2rem;
+.icon {
+    font-size: 6rem;
 }
 
 /* MEDIA QUERY */
