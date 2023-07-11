@@ -114,6 +114,14 @@ p {
     font-size: 1.5rem;
 }
 
+
+/* ICONS */
+
+.fa-duotone,
+.fa-pot-food {
+    font-size: 2rem;
+}
+
 /* MEDIA QUERY */
 
 @media screen and (min-width:480px) {
