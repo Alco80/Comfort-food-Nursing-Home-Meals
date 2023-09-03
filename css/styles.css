@@ -13,7 +13,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #f3f7ff;
 }
 
 .custom-clr {
@@ -212,17 +212,6 @@ body {
     .btn-main {
         font-size: 1.3rem;
         padding: .5em 1.5em;
-    }
-
-    .columns {
-       display: flex;
-       flex-direction: row;
-       justify-content: center;
-       gap: 3em;
-    }
-    .info-container{
-    display: grid;
-    grid-template-columns: repeat(3, 2fr);
     }
 
 }
