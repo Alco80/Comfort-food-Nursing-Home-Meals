@@ -90,8 +90,13 @@ body {
     padding: 2em;
 }
 
+.info-info-subtitle{
+    font-size: 2.3rem;
+}
+
 p {
     line-height: 1.5;
+    font-size: 1.2rem;
 }
 
 /* 404 PAGE */
@@ -217,5 +222,13 @@ p {
 
     .col-sub {
         width: 80%;
+    }
+    .info-info-subtitle{
+        font-size: 2rem;
+    }
+    
+    p {
+        line-height: 1.5;
+        font-size: 1.1rem;
     }
 }
