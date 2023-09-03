@@ -86,17 +86,23 @@ body {
 
 /* MAIN CONTENT */
 
+.columns{
+    background-color: #f1f3ff;
+}
 .col-sub {
-    padding: 2em;
+    background-color: #ffff;
+    border-radius: 2em;
 }
 
 .info-info-subtitle{
     font-size: 2.3rem;
+   margin-top: 3em;
 }
 
 p {
     line-height: 1.5;
     font-size: 1.2rem;
+    padding: .9em;
 }
 
 /* 404 PAGE */
@@ -222,6 +228,9 @@ p {
 
     .col-sub {
         width: 80%;
+        background-color: #ffff;
+        margin-left: 2em;
+        border-radius: 2em;
     }
     .info-info-subtitle{
         font-size: 2rem;
