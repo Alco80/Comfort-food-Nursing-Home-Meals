@@ -211,4 +211,9 @@ body {
         flex-direction: row;
     }
 
+    .card{
+        display: flex;
+    }
+
+
 }
