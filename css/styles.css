@@ -104,6 +104,11 @@ body {
     font-weight: 300;
 }
 
+.times{
+    font-size: 1.6rem;
+    list-style: square;
+}
+
 
 /* 404 PAGE */
 .not-found {
