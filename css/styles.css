@@ -91,11 +91,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: .8em;
 }
 
-.card-title{
-    background-color:#deebff;
-}
 
 
 /* 404 PAGE */
@@ -123,6 +121,12 @@ body {
 
 .icon {
     font-size: 6rem;
+}
+
+.fa-check,
+.fa-bowl-food,
+.fa-utensils{
+    color: #776acc;
 }
 
 /* MEDIA QUERY */
