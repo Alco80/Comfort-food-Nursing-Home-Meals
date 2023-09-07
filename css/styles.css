@@ -87,13 +87,22 @@ body {
 /* MAIN CONTENT */
 
 .columns{
-    background-color: #f1f3ff;
+    background-color: #f7f8ff;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: .8em;
 }
 
+.info-info-subtitle{
+    font-size: 2.2rem;
+}
+
+.info__para-text{
+    font-size: 1.2rem;
+    line-height: 1.5;
+    font-weight: 300;
+}
 
 
 /* 404 PAGE */
@@ -125,7 +134,8 @@ body {
 
 .fa-check,
 .fa-bowl-food,
-.fa-utensils{
+.fa-utensils,
+.snacks-title{
     color: #776acc;
 }
 
