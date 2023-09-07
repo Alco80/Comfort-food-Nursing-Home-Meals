@@ -88,9 +88,7 @@ body {
 
 .columns{
     background-color: #f7f8ff;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    display: block;
     padding: .8em;
 }
 
@@ -102,6 +100,7 @@ body {
     font-size: 1.2rem;
     line-height: 1.5;
     font-weight: 300;
+    max-width: 100%;
 }
 
 .times{
@@ -174,6 +173,19 @@ body {
         display: flex;
         flex-direction: column;
     }
+    .info__para-text{
+        font-size: 1.25rem;
+    }
+
+    .times{
+        font-size: 1.2rem;
+        list-style: square;
+    }
+
+    .info-info-subtitle{
+        font-size: 1.6rem;
+    }
+
 }
 
 @media screen and (min-width:780px) {
@@ -199,6 +211,28 @@ body {
 
     .hero-btn {
         padding: 2em 1.5em;
+    }
+
+    .columns{
+       background-color: #f7f8ff;
+       display: grid;
+       grid-template-columns: repeat(3, 1fr);
+    }
+
+    .info__col-sub{
+        padding: 1.3em;
+    }
+
+    .info__para-text{
+        font-size: 1rem;
+    }
+
+    .times{
+        font-size: 1.4rem;
+    }
+
+    .info-info-subtitle{
+        font-size: 1.8rem;
     }
 
 }
@@ -232,5 +266,10 @@ body {
         font-size: 1.3rem;
         padding: .5em 1.5em;
     }
+
+    .info__para-text{
+        font-size: 1.3rem;
+    }
+
 
 }
