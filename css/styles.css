@@ -116,8 +116,10 @@ body {
 
 /* CANADIAN FOOD GUIDE */
 .food-guide{
-    padding: .8em;
+    margin-top: 2em;
+    padding: 2em 1.2em;
     display: block;
+    background-color:#e7eef9;
 }
 
 
