@@ -117,6 +117,7 @@ body {
 /* CANADIAN FOOD GUIDE */
 .food-guide{
     padding: .8em;
+    display: block;
 }
 
 
@@ -216,6 +217,19 @@ body {
         font-size: 1.6rem;
     }
 
+    .food-guide{
+        display: block;
+    }
+
+    .guide-container .info__para-text{
+        margin-top: 3em;
+    }
+
+    .food-guide__img img{
+        max-width: 100%;
+        padding-bottom: 1em;
+        padding-right: 2em;
+    }
 }
 
 @media screen and (min-width:780px) {
@@ -265,6 +279,16 @@ body {
         font-size: 1.8rem;
     }
 
+    .food-guide{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .food-guide__img img{
+        max-width: 100%;
+        padding-bottom: 1em;
+        padding-right: 2em;
+    }
 }
 
 
