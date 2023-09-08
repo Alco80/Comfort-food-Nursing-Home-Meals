@@ -115,6 +115,15 @@ body {
 }
 
 /* CANADIAN FOOD GUIDE */
+.food-guide{
+    padding: .8em;
+}
+
+
+.food-guide__img img{
+    max-width: 100%;
+    padding-bottom: 1em;
+}
 
 
 /* 404 PAGE */
