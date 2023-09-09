@@ -140,6 +140,19 @@ body {
     color: #776acc;
  }
  
+.speech-icon{
+    padding-top: 3em;
+}
+
+.help{
+    background-color: #f3f7ff;
+}
+
+.help-container{
+    margin-top: 2em;
+    padding: 2em 1.2em;
+    display: block;
+}
 
 
 /* 404 PAGE */
@@ -175,6 +188,10 @@ body {
 .snacks-title,
 .fa-comment{
     color: #776acc;
+}
+
+.fa-comment{
+    font-size: 14rem;
 }
 
 /* MEDIA QUERY */
@@ -233,6 +250,13 @@ body {
         padding-bottom: 1em;
         padding-right: 2em;
     }
+
+    .help-container{
+        margin-top: 2em;
+        padding: 2em 1.2em;
+        display: block;
+    }
+    
 }
 
 @media screen and (min-width:780px) {
@@ -282,7 +306,7 @@ body {
         font-size: 1.8rem;
     }
 
-    .food-guide{
+    .food-guide,.help{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
