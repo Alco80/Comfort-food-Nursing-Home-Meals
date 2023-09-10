@@ -277,6 +277,11 @@ body {
         padding: 2em 1.2em;
         display: block;
     }
+
+    .subnews{
+        text-align: center;
+        font-size: 2.3rem;
+    }
     
 }
 
@@ -337,6 +342,32 @@ body {
         padding-bottom: 1em;
         padding-right: 2em;
     }
+    .news-container{
+        margin-top: 2.4em;
+    }
+    
+    .news-title{
+        font-size: 2.9rem;
+    }
+    
+    .news-para{
+        width: 80%;
+        font-size: 1.6rem;
+    }
+    
+    .news-btn{
+       
+        border-radius: 8px;
+        font-size: 1.2rem;
+        margin-top: .8em;
+        padding: .8em;
+    }
+
+    .subnews{
+        text-align: center;
+        font-size: 2.3rem;
+    }
+    
 }
 
 
@@ -372,6 +403,9 @@ body {
     .info__para-text{
         font-size: 1.3rem;
     }
-
+    .subnews{
+        text-align: center;
+        font-size: 2.6rem;
+    }
 
 }
