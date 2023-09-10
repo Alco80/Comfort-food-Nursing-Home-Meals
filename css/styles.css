@@ -139,19 +139,8 @@ body {
 .btn-link a:hover {
     color: #776acc;
  }
- 
-.speech-icon{
-    padding-top: 3em;
-}
-
-.help{
-    background-color: #f3f7ff;
-}
-
-.help-container{
+.news-container{
     margin-top: 2em;
-    padding: 2em 1.2em;
-    display: block;
 }
 
 
