@@ -200,12 +200,18 @@ iframe{
     list-style: none;
 }
 
+.contact-list{
+    padding-bottom: .9em;
+    font-size: 1.2rem;
+}
+
 /* Footer icons */
 
 .fa-house,
 .fa-envelope,
 .fa-phone{
     padding-right: .6em;
+    font-size: 1.3rem;
 }
 /* 404 PAGE */
 .not-found {
