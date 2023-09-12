@@ -186,6 +186,27 @@ iframe{
     color: #f0f0f0;
 }
 
+.contact-us-title{
+    padding: .7em;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.flex-footer{
+    display: block;
+}
+
+.contact-menu{
+    list-style: none;
+}
+
+/* Footer icons */
+
+.fa-house,
+.fa-envelope,
+.fa-phone{
+    padding-right: .6em;
+}
 /* 404 PAGE */
 .not-found {
     text-align: center;
