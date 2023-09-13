@@ -205,13 +205,16 @@ iframe{
     font-size: 1.2rem;
 }
 
-.form-container{
+.sub-container{
+    margin-left: 1.2em;
     padding: 1.2em;
 }
 
-form{
-    display: flex;
-    gap: .4em
+.sub-btn{
+    background-color: transparent;
+    border: 2px solid #f0f0f0;
+    color: #f0f0f0;
+    padding: .8em 1.3em;
 }
 
 label{
