@@ -1,7 +1,19 @@
 .facility{
     padding: 1.3em;
+    
+}
+.facility-title h2{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.facility-text{
+    margin-top: 1.2em;
+}
+.facility-grid{
+    display: block;
 }
 
 .facility-img img{
-   max-width: 60%;
+   max-width:100%;
 }
