@@ -17,3 +17,17 @@
 .facility-img img{
    max-width:100%;
 }
+
+/* Home link */
+
+.home-link a:link{
+font-size: 1.6rem;
+}
+.home-link a:visited{
+ color: blue;
+ }
+
+.home-link a:hover{
+color: #a2a2a2;
+}
+    
