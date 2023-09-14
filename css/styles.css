@@ -213,13 +213,9 @@ iframe{
 .sub-btn{
     background-color: transparent;
     border: 2px solid #f0f0f0;
-    color: #f0f0f0;
-    padding: .8em 1.3em;
-}
-
-label{
     font-size: 1rem;
-    font-weight: 200;
+    color: #f0f0f0;
+    padding: .8em 7.5em;
 }
 
 .copyright{
