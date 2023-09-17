@@ -244,6 +244,23 @@ iframe{
 .policy-home{
     margin: 1em 1.1em;
 }
+
+/* FORM PAGE */
+
+.form-container{
+    margin:2em;
+    padding: 2.6em;
+    border: 2px solid #9c9c9c;
+    border-radius: 8px;
+    background-color: #e7eafe;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+}
+
+
 /* 404 PAGE */
 .not-found {
     text-align: center;
