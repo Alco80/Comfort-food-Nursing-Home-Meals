@@ -182,6 +182,8 @@ body {
 
 .news-btn:hover{
     background-color: #27f603;
+    color: #212122;
+    text-decoration: underline;
 }
 
 iframe{
@@ -228,6 +230,7 @@ iframe{
 
 .sub-btn:hover{
    background-color: #e800c5;
+   text-decoration: underline;
 }
 
 .copyright{
@@ -308,7 +311,7 @@ input[type=submit]:hover{
     border: none;
 }
 
-/* Logitec info */
+/* Logiocron info */
 
 .logiocron-info, .terms-info{
     text-align: center;
