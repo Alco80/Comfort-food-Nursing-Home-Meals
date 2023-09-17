@@ -222,6 +222,10 @@ iframe{
     padding: .8em 7.5em;
 }
 
+.sub-btn:hover{
+   background-color: #e800c5;
+}
+
 .copyright{
     padding: 1.2em;
     text-align: center;
