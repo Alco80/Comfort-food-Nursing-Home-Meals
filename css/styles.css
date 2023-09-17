@@ -180,6 +180,10 @@ body {
     padding: .8em;
 }
 
+.news-btn:hover{
+    background-color: #27f603;
+}
+
 iframe{
     width: 100%;
 }
