@@ -294,6 +294,25 @@ input[type=submit]{
     border: none;
 }
 
+/* Logitec info */
+
+.logiocron-info, .terms-info{
+    text-align: center;
+}
+
+.terms-info{
+    margin-top: 2em;
+}
+
+.terms-info a{
+    padding-right: .8em;
+}
+
+.logi-text{
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
 /* 404 PAGE */
 .not-found {
     text-align: center;
