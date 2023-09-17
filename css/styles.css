@@ -254,6 +254,10 @@ iframe{
     border-radius: 8px;
     background-color: #e7eafe;
 }
+.login-info{
+    margin-top: 1.6em;
+    text-align: center;
+}
 
 .form{
   display: flex;
