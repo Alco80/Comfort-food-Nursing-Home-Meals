@@ -236,6 +236,10 @@ iframe{
 .policy-container{
     margin: 1.3em;
 }
+
+.policy-home{
+    margin: 1em 1.1em;
+}
 /* 404 PAGE */
 .not-found {
     text-align: center;
@@ -464,6 +468,10 @@ iframe{
     
     .policy-container{
         margin: 2.6em;
+    }
+
+    .policy-home{
+        margin: 1.4em 1.1em;
     }
     
 }
