@@ -463,7 +463,7 @@ iframe{
     }
     
     .policy-container{
-        margin: 2em;
+        margin: 2.6em;
     }
     
 }
@@ -506,4 +506,11 @@ iframe{
         font-size: 2.6rem;
     }
 
+}
+
+@media screen and (min-width:1366px){
+    .policy-container{
+        margin: 2.9em;
+    }
+    
 }
