@@ -294,6 +294,12 @@ input[type=submit]{
     border: none;
 }
 
+input[type=submit]:hover{
+    background-color: #27f603;
+    color: #1c1c1c;
+    border: none;
+}
+
 /* Logitec info */
 
 .logiocron-info, .terms-info{
