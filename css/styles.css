@@ -402,7 +402,15 @@ input[type=submit]{
     .news-btn{
         margin-bottom: 4em;
     }
-    
+
+    .form-container{
+        width: 50%;
+        margin: 2em auto;
+    }
+
+    .form{
+    padding: 2em;
+    }
 }
 
 @media screen and (min-width:780px) {
