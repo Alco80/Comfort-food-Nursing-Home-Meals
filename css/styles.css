@@ -258,7 +258,23 @@ iframe{
 .form{
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
+
+.form-title{
+   text-align: center;
+   margin-top: 1em;
+}
+
+label{
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+.form-input{
+    margin-bottom: 1.6em;
+}
+
 
 
 /* 404 PAGE */
