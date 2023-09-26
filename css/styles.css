@@ -256,6 +256,24 @@ iframe{
     margin: 1em 1.1em;
 }
 
+/* Careers */
+
+.career-title{
+    margin-bottom: 1.2em;
+}
+
+.career-menu{
+    list-style: circle;
+}
+.bold{
+    font-weight: 700;
+}
+
+.career-list{
+    line-height: 1.4;
+    padding-bottom: 1.2em;
+}
+
 /* FORM PAGE */
 
 .form-container{
