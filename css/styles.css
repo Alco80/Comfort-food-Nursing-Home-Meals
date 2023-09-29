@@ -189,6 +189,12 @@ body {
 iframe{
     width: 100%;
 }
+
+/* Careers Page */
+
+.facility-img img{
+    padding-bottom: 2em;
+}
 /* Footer */
 .footer{
     display: block;
@@ -629,6 +635,10 @@ input[type=submit]:hover{
     padding: 2em;
     }
 
+    .facility{
+        display: block;
+    }
+
 }
 
 @media screen and (min-width:1366px){
@@ -644,5 +654,10 @@ input[type=submit]:hover{
     .form{
     padding: 2em;
     }
+
+    .section-column{
+       display: inline;
+       
     
+}
 }
