@@ -586,6 +586,15 @@ input[type=submit]:hover{
     .policy-home{
         margin: 1.4em 1.1em;
     }   
+
+    .mission-grid{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mission-img img{
+        min-width: 600px;
+    }
 }
 
 
@@ -639,11 +648,23 @@ input[type=submit]:hover{
         display: block;
     }
 
+    .mission-img img{
+        width: 60%;
+        height: 80%;
+    }
+.mission-text{
+    width:80%;
+    margin: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 }
 
 @media screen and (min-width:1366px){
     .policy-container{
-        margin: 2.9em;
+        margin: auto;
     }
 
     .form-container{
@@ -656,8 +677,6 @@ input[type=submit]:hover{
     }
 
     .section-column{
-       display: inline;
-       
-    
+       display: inline; 
 }
 }
