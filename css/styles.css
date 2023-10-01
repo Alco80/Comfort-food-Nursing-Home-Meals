@@ -280,6 +280,21 @@ iframe{
     padding-bottom: 1.2em;
 }
 
+/* Mission Page */
+
+.mission-img{
+    background-color: #737373;
+    background-image: url(../img/lady-smiling.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding: 15rem;
+}
+
+.mission-menu{
+    margin-top: 2em;
+}
 /* FORM PAGE */
 
 .form-container{
@@ -591,10 +606,6 @@ input[type=submit]:hover{
         display: flex;
         flex-direction: column;
     }
-
-    .mission-img img{
-        min-width: 600px;
-    }
 }
 
 
@@ -648,10 +659,6 @@ input[type=submit]:hover{
         display: block;
     }
 
-    .mission-img img{
-        width: 70%;
-        min-width:10px;
-    }
     .mission-text{
      width:80%;
      margin: 3rem;
@@ -681,5 +688,15 @@ input[type=submit]:hover{
 
     .section-column{
        display: inline; 
+}
+
+.mission-img{
+    background-color: #737373;
+    background-image: url(../img/lady-smiling.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding: 12rem;
 }
 }
