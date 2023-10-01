@@ -289,7 +289,7 @@ iframe{
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: multiply;
-    padding: 15rem;
+    padding: 10rem;
 }
 
 .mission-menu{
@@ -606,6 +606,16 @@ input[type=submit]:hover{
         display: flex;
         flex-direction: column;
     }
+
+    .mission-img{
+        background-color: #737373;
+        background-image: url(../img/lady-smiling.jpg);
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-blend-mode: multiply;
+        padding: 12rem;
+    }
 }
 
 
@@ -666,6 +676,16 @@ input[type=submit]:hover{
      flex-direction: column;
      justify-content: center;
      align-items: center;
+}
+
+.mission-img{
+    background-color: #737373;
+    background-image: url(../img/lady-smiling.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding: 12rem;
 }
 }
 
