@@ -649,16 +649,16 @@ input[type=submit]:hover{
     }
 
     .mission-img img{
-        width: 60%;
-        height: 80%;
+        width: 100%;
+        height: auto;
     }
-.mission-text{
-    width:80%;
-    margin: 3rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    .mission-text{
+     width:80%;
+     margin: 3rem;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
 }
 }
 
