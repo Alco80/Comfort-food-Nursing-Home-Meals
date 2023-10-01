@@ -301,15 +301,6 @@ iframe{
     margin-top: 2em;
 }
 
-.covid-img{
-    background-color: #737373;
-    background-image: url(../img/covid-19.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-blend-mode: multiply;
-    width: 100%;
-}
 /* FORM PAGE */
 
 .form-container{
