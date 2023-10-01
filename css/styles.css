@@ -380,6 +380,10 @@ input[type=submit]:hover{
 
 /* CONTACT PAGE */
 
+.contact-container{
+    margin: 3em;
+}
+
 
 /* Logiocron info */
 
