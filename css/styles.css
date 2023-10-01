@@ -374,8 +374,9 @@ input[type=submit]:hover{
     line-height: 1.6;
 }
 
-.covid-img img{
-    padding: 1em;
+.covid-img{
+   overflow: hidden;
+   width: 100vw;
 }
 
 /* CONTACT PAGE */
