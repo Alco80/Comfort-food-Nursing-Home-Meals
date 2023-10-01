@@ -671,6 +671,9 @@ input[type=submit]:hover{
         width: 50%;
         margin: 2em auto;
     }
+    .policy-container{
+        margin: 1.3em;
+    }
 
     .form{
     padding: 2em;
