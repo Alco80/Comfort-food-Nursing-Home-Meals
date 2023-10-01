@@ -301,6 +301,17 @@ iframe{
     margin-top: 2em;
 }
 
+/* CONTACT US NON FOOTER */
+
+.contact-para{
+    display: flex;
+    justify-content: center;
+}
+
+textarea{
+    margin-bottom: 2em;
+    color: #9c9c9c;
+}
 /* FORM PAGE */
 
 .form-container{
