@@ -649,8 +649,8 @@ input[type=submit]:hover{
     }
 
     .mission-img img{
-        width: 100%;
-        height: auto;
+        width: 70%;
+        min-width:10px;
     }
     .mission-text{
      width:80%;
