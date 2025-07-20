@@ -1,3 +1,3 @@
-# Comfort Foods *Food for Seniors*
+# Comfort Foods: *Food for Seniors*
 
 ****
